@@ -80,3 +80,15 @@ Now, access the website at:
 ```
 http://127.0.0.1:8000/cars/
 ```
+- Start Page
+
+![](https://github.com/Trafl/assets/blob/main/DjangoFront.png)
+
+- Details
+
+![](https://github.com/Trafl/assets/blob/main/carDetail.png)
+
+- Registry
+
+![](https://github.com/Trafl/assets/blob/main/image.png)
+
